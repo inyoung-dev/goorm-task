@@ -1,0 +1,11 @@
+시맨틱 태그 분석
+
+
+사용 태그
+<header>
+<nav>
+<main>
+<section>
+<article>
+<aside>
+<footer>
